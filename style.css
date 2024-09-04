@@ -26,7 +26,7 @@ form {
   transition: 0.5s ease-in;
 }
 form:hover {
-  transform: scale(1.5);
+  transform: scale(1.3);
 }
 input {
   width: 75px;
